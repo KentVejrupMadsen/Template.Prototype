@@ -1,2 +1,2 @@
 # Scripts 
-Scripts contained to help install the project
+Scripts contained to help install the prototype

@@ -1,6 +1,11 @@
 # default
 * text=auto
 
+# For documentation
+*.md diff=markdown
+
+
+
 # Base
 .gitignore text eol=lf
 .gitattributes text eol=lf

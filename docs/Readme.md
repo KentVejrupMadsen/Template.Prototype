@@ -6,17 +6,21 @@
 
 ## Footnotes
 ### Document details
-Author: Kent vejrup Madsen
-Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
-[Issues](.)
+Author: [Name]
 
-Made using: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
+Copyright: [Name] [Year]
 
-Copyright: Kent vejrup Madsen [Year]
+Licenses [MIT License](.)
 
-Licenses [MIT License](license.md)
+Contact Information: 
+* [Email](mailTo:mailto@text.example)
+* [Issues](link)
+* [Phone](.)
+* [Github](link)
 
-Created at:
 
-Last updated at:
+Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
+Created at: [Date]
+
+Last updated at: [Date]

@@ -19,6 +19,7 @@ License: [MIT License](license.md)
 Contact Information: 
 * [Email](mailTo:email@mail.example)
 * [Issues](link)
+* [Phone](.)
 * [Github](link)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)

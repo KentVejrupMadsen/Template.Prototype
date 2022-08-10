@@ -2,7 +2,7 @@
 * text=auto
 
 # For documentation
-*.md diff=markdown
+*.md diff=markdown eol=crlf
 
 
 

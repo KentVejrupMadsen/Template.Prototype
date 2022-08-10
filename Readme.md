@@ -9,17 +9,19 @@
 ## Footnotes
 
 ### Document details
-Author: Kent vejrup Madsen
-Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
-[Issues](.)
+Author: [Name]
+
+Contact Information: 
+* [Email](mailTo:email@mail.example)
+* [Issues](link)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
-Copyright: Kent vejrup Madsen [Year]
+Copyright: [Name] [Year]
 
 License: [MIT License](license.md)
 
-Created at:
+Created at: [Date]
 
-Last updated at:
+Last updated at: [Date]
 

@@ -1,16 +1,18 @@
 # Footnotes Template
 ### Document details
 Author: [Name]
-Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
-[Issues](.)
+
+Contact Information: 
+* [Email](mailTo:mailto@text.example)
+* [Issues](link)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
 Copyright: [Name] [Year]
 
-Licenses: [MIT License](.)
+License: [MIT License](.)
 
-Created at:
+Created at: [Date]
 
-Last updated at:
+Last updated at: [Date]
 

@@ -11,15 +11,17 @@
 ### Document details
 Author: [Name]
 
-Contact Information: 
-* [Email](mailTo:email@mail.example)
-* [Issues](link)
-
-Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
-
 Copyright: [Name] [Year]
 
 License: [MIT License](license.md)
+
+
+Contact Information: 
+* [Email](mailTo:email@mail.example)
+* [Issues](link)
+* [Github](link)
+
+Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
 Created at: [Date]
 

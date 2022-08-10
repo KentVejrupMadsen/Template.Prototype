@@ -1,4 +1,4 @@
-# prototype template
+# Project Title
 
 ## Content
 1. [License](LICENSE.md)

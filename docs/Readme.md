@@ -1,4 +1,7 @@
 # Project Title
+![Repository Image that are used as a cover image social networks](./resources/cover/preview.png)
+[2022, Designermadsen, Deviantart](https://www.deviantart.com/designermadsen/art/The-infinite-library-Garden-924910668)
+
 
 ## Content
 1. [License](LICENSE.md)

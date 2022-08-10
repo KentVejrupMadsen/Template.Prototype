@@ -13,7 +13,7 @@ Author: Kent vejrup Madsen
 Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
 [Issues](.)
 
-Made using: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
+Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
 
 Copyright: Kent vejrup Madsen [Year]
 

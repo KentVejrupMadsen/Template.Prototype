@@ -2,6 +2,10 @@
 ### Document details
 Author: [Name]
 
+Copyright: [Name] [Year]
+
+License: [MIT License](.)
+
 Contact Information: 
 * [Email](mailTo:mailto@text.example)
 * [Issues](link)
@@ -9,10 +13,6 @@ Contact Information:
 * [Github](link)
 
 Made using: [Template.Prototype](https://github.com/KentVejrupMadsen/template.prototype)
-
-Copyright: [Name] [Year]
-
-License: [MIT License](.)
 
 Created at: [Date]
 
